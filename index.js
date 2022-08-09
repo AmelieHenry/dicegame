@@ -25,3 +25,5 @@ else if (randomNumber2 > randomNumber1) {
 else (randomNumber1 = randomNumber2) {
     document.querySelector("h1").setAttribute(h1, "🚩Draw!🚩")
 };
+
+// Hello Leigh
